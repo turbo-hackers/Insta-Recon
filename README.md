@@ -5,10 +5,11 @@ It can be used to get the data of public accounts as well as Private accounts li
 
 Also save the report to a folder with a text file and profile photo
 
+## [Screenshot] :
 ![alt text](https://raw.githubusercontent.com/turbo-hackers/Insta-Recon/main/Insta-Recon_screenshot.png)
 <h2>Installation and Usage (python 3)</h2>
 
-## [Kali-Linux]:
+## [Kali-Linux] :
 
 * `sudo apt-get update -y && sudo apt-get upgrade -y`
 * `sudo apt install python3 -y`
@@ -18,7 +19,7 @@ Also save the report to a folder with a text file and profile photo
 * `pip install -r requirements.txt`
 * `python3 insta-recon.py`
 
-## [Termux]:
+## [Termux] :
 
 * `apt-get update -y && apt-get upgrade -y`
 * `pkg install python3 -y`
@@ -28,7 +29,7 @@ Also save the report to a folder with a text file and profile photo
 * `pip install -r requirements.txt`
 * `python3 insta-recon.py`
 
-## USEAGE:
+## USEAGE :
 * `python3 insta-recon.py`
 * `→ Now Just Enter username of any Account`
 
