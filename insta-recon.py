@@ -101,7 +101,7 @@ def main():
 		print(pi+"["+y+"Report Saving,Please wait....."+pi+"]"+reset)
 		save_report()
 		print("\n")
-		print(g+"###"+s_b+" Report Saved Successfully "+s_b+"###"+reset)
+		print(g+"###"+s_b+" Report Saved Successfully "+g+"###"+reset)
 
 
 try:
