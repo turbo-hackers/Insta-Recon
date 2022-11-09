@@ -6,7 +6,7 @@ It can be used to get the data of public accounts as well as Private accounts li
 Also save the report to a folder with a text file and profile photo
 
 ## [Screenshot] :
-![alt text](https://raw.githubusercontent.com/turbo-hackers/Insta-Recon/main/Insta-Recon_screenshot.png)
+![alt text](https://raw.githubusercontent.com/turbo-hackers/Insta-Recon/main/screenshot_Insta-Recon.png)
 <h2>Installation and Usage (python 3)</h2>
 
 ## [Kali-Linux] :
