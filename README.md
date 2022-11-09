@@ -11,23 +11,29 @@ Also save the report to a folder with a text file and profile photo
 
 ## [Kali-Linux] :
 
-* `sudo apt-get update -y && sudo apt-get upgrade -y`
-* `sudo apt install python3 -y`
-* `sudo apt install git -y`
-* `git clone https://github.com/turbo-hackers/Insta-Recon.git`
-* `cd Insta-Recon`
-* `pip install -r requirements.txt`
-* `python3 insta-recon.py`
+```
+sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt install git python3 -y
+git clone https://github.com/turbo-hackers/Insta-Recon.git
+```
+```
+cd Insta-Recon
+pip install -r requirements.txt
+python3 insta-recon.py
+```
 
 ## [Termux] :
 
-* `apt-get update -y && apt-get upgrade -y`
-* `pkg install python3 -y`
-* `pkg install git -y`
-* `git clone https://github.com/turbo-hackers/Insta-Recon.git`
-* `cd Insta-Recon`
-* `pip install -r requirements.txt`
-* `python3 insta-recon.py`
+```
+apt-get update -y && apt-get upgrade -y
+pkg install git python3 -y
+git clone https://github.com/turbo-hackers/Insta-Recon.git
+```
+```
+cd Insta-Recon
+pip install -r requirements.txt
+python3 insta-recon.py
+```
 
 ## USEAGE :
 * `python3 insta-recon.py`
