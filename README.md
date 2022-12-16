@@ -14,6 +14,7 @@ Also save the report to a folder with a text file and profile photo
 ```
 sudo apt-get update -y && sudo apt-get upgrade -y
 sudo apt install git python3 -y
+pip install requests
 git clone https://github.com/turbo-hackers/Insta-Recon.git
 ```
 ```
@@ -26,6 +27,7 @@ python3 insta-recon.py
 ```
 apt-get update -y && apt-get upgrade -y
 pkg install git python3 -y
+pip install requests
 git clone https://github.com/turbo-hackers/Insta-Recon.git
 ```
 ```
